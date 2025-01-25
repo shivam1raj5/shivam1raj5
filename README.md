@@ -1,12 +1,12 @@
 ![logo](https://github.com/shivam1raj5/shivam1raj5/blob/main/Cover%20Photo.png)
 <h1 align="center">Hi 👋, I'm Shivam Raj</h1>
-<h3 align="center">FLUTTER | JAVA | APP DEVELOPER | PROGRAMMER | CSE'24 | SLIET | Member@SSDC</h3>
+<h3 align="center">SWE at DealerMatix | Salesforce | Flutter | Java</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 I’m currently working on [AI Driven Chat Application](https://github.com/shivam1raj5/AI_Driven_Chat_Application_JAVA)
+- 🔭 I’m currently working on [AI Based Assignment Generator Application](https://github.com/shivam1raj5/AI_Based_Assignment_Application_Flutter)
 
-- 🌱 I’m currently learning **Frameworks, Courses etc.**
+- 🌱 I’m currently working on **Salesforce, App Development etc.**
 
 - 👨‍💻 All of my projects are available at [https://shivam1raj5.github.io/Portfolio](https://shivam1raj5.github.io/Portfolio)
 
